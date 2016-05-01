@@ -6,7 +6,7 @@ bio: 'Born in Puerto Rico. Frozen and packaged in New England'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://caalbert.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -26,16 +26,16 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: @cortiztoro
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+# youtube: myyoutube
+# spotify: myspotify
+github: caalbert
+# medium: medium
+email: entrevision.caortiz@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
