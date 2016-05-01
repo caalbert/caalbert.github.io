@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Carlos Alberto
+bio: 'Born in Puerto Rico. Made a popsicle in New England.'
 
 # if it's an external image, update below for true
 external-image: false
@@ -31,11 +31,11 @@ twitter: mytwitter
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+# youtube: myyoutube
+# spotify: myspotify
+github: caalbert
+# medium: medium
+email: entrevision.caortiz@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
