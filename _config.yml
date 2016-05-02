@@ -9,7 +9,7 @@ picture: 'assets/images/profile.jpg'
 url: http://caalbert.github.io
 # your url: http://USERNAME.github.io
 
-permalink: /:year/:month/:day/:title
+permalink: /:year.:month/:title
 
 markdown: kramdown
 highlighter: rouge
