@@ -1,6 +1,6 @@
 # main text of home
 name: Carlos Alberto
-bio: 'Cooked in the Caribbean.' <br> 'Turned into a popsicle in New England.'
+bio: 'Cooked in the Caribbean. Turned into a popsicle in New England.'
 
 # if it's an external image, update below for true
 external-image: false
