@@ -6,6 +6,7 @@ tag:
 - test
 - markdown
 blog: true
+draft: false
 ---
 
 ## This is a test
