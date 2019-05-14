@@ -12,5 +12,5 @@ gem 'jekyll-seo-tag'
 gem 'jekyll-feed'
 gem 'jekyll-sitemap'
 gem 'jekyll-gist'
-gem 'nokogiri', '~> 1.8.5' gem "nokogiri", ">= 1.8.5"
+gem "nokogiri", ">= 1.8.5"
 gem 'wdm', '~> 0.1.0' if Gem.win_platform?
