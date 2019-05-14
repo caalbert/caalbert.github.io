@@ -1,7 +1,7 @@
 ---
 title: Reading List
 layout: page
-permalink: /reading_list/index.html
+permalink: /reading/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
