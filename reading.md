@@ -1,7 +1,7 @@
 ---
 title: Reading
 layout: page
-permalink: /about/index.html
+permalink: /reading/index.html
 ---
 ### Books Read
 
