@@ -156,7 +156,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
-  jekyll
+  jekyll (`> 3.6.3)
   jekyll-feed
   jekyll-gist
   jekyll-mentions
