@@ -1,5 +1,5 @@
 ---
-title: Reading List
+title: Reading
 layout: page
 permalink: /about/index.html
 ---
