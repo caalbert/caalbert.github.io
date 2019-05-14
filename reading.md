@@ -5,12 +5,12 @@ permalink: /reading/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I just want to see if this works. Might as well right? Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+- Tamer, King of the Dionsaurs, Book 1 by Michael-Scott Earle
+- Tamer, King of the Dionsaurs, Book 2 by Michael-Scott Earle
+- Tamer, King of the Dionsaurs, Book 3 by Michael-Scott Earle
+- Tamer, King of the Dionsaurs, Book 4 by Michael-Scott Earle
+- Tamer, King of the Dionsaurs, Book 5 by Michael-Scott Earle
+
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
