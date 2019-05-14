@@ -5,6 +5,7 @@ permalink: /reading/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+
 - Tamer, King of the Dionsaurs, Book 1 by Michael-Scott Earle
 - Tamer, King of the Dionsaurs, Book 2 by Michael-Scott Earle
 - Tamer, King of the Dionsaurs, Book 3 by Michael-Scott Earle
