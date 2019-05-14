@@ -29,5 +29,13 @@
                 </li>
             {% endif %}
         {% endif %}
+        
+        {% if site.reading_list == true %}
+            {% if page.title != "Reading List" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/reading_list">Reading List</a>
+                </li>
+            {% endif %}
+        {% endif %}
     </ul>
 </nav>
