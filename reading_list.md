@@ -1,7 +1,7 @@
 ---
-title: About
+title: Reading List
 layout: page
-permalink: /about/index.html
+permalink: /reading_list/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
