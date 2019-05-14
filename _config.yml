@@ -27,7 +27,7 @@ disqus: ccalbertgithubio
 # if you don't have any of social below, comment the line
 facebook: caortiztoro
 twitter: cortiztoro
-google: CarlosOrtizCWL
+# google: CarlosOrtizCWL
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -52,6 +52,7 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+reading: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
