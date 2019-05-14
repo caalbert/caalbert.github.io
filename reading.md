@@ -3,12 +3,18 @@ title: Reading List
 layout: page
 permalink: /reading/index.html
 ---
+
+### Books Read
+
 - Tamer, King of the Dionsaurs, Book 1 by Michael-Scott Earle
 - Tamer, King of the Dionsaurs, Book 2 by Michael-Scott Earle
 - Tamer, King of the Dionsaurs, Book 3 by Michael-Scott Earle
 - Tamer, King of the Dionsaurs, Book 4 by Michael-Scott Earle
 - Tamer, King of the Dionsaurs, Book 5 by Michael-Scott Earle
 
+### Reading List
+
+- La noche en que volvimos a ser gente
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
