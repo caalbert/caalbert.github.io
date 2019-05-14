@@ -4,7 +4,7 @@ gem 'github-pages'
 gem 'rake'
 gem 'rouge'
 gem 'pygments.rb'
-gem 'jekyll'
+gem "jekyll", ">= 3.6.3"
 gem 'html-proofer'
 gem 'jemoji'
 gem 'jekyll-mentions'
